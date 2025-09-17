@@ -23,5 +23,5 @@ Ingestão e limpeza dos datasets, criação de consultas em SQL conforme indicad
 - CHATGPT
 
 ## 🔍 Observações
-Infelizmente por conta da alta demanda no trabalho atual não consegui colocar em prática tudo que tinha programado, e por ter usado o notebook da empresa atual também não consegui disponibilizar o passo a passo do processo de uma forma mais escalável, de qualquer forma agradeço pela oportunidade =)
+Infelizmente por conta da alta demanda no trabalho atual não consegui colocar em prática tudo que tinha programado e até já feito nas consultas, e por ter usado o notebook da empresa atual também não consegui disponibilizar o passo a passo do processo de uma forma mais escalável por trava nas ferramentas, de qualquer forma agradeço pela oportunidade =)
 * Foi utilizado o CHATGPT na consulta do processo de ingestão dos datasets para a ferramenta databricks, auxiliando na criação das tabelas com códigos em PYTHON, todas as consultas foram criadas em SQL.
