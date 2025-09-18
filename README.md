@@ -11,8 +11,9 @@ Ingestão e limpeza dos datasets, criação de consultas em SQL conforme indicad
 - Criação de outra página no dashboard com indicadores focados em análises de usuários e segmentações
     - Usuários por faixa de renda;
     - Usuários por estado;
-    - Receita e TKM por tipo de ocupação;
-    - Usuários por dispositivo e genero.
+    - Receita e TKM por tipo de ocupação; (fazendo um JOIN por USER_ID pra unir a tabela de transação com a de usuários)
+    - Usuários por dispositivo e genero;
+    - Frequência de usuários na linha do tempo
 
 - Refinamento e Manutenção da página já criada no Tableau.
 
